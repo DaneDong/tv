@@ -9,6 +9,8 @@ http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/32212
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
 #EXTINF:-1 group-title="央视" tvg-logo="https://wtv.tools.yigechengzi.com/api/v1/tvg/logo/CCTV5",CCTV-5
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
+#EXTINF:-1 group-title="央视" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" ,CCTV-5+
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225603/index.m3u8
 #EXTINF:-1 group-title="央视" tvg-logo="https://wtv.tools.yigechengzi.com/api/v1/tvg/logo/CCTV6",CCTV-6
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
 #EXTINF:-1 group-title="央视" tvg-logo="https://wtv.tools.yigechengzi.com/api/v1/tvg/logo/CCTV7",CCTV-7
@@ -17,6 +19,8 @@ http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
 #EXTINF:-1 group-title="央视" tvg-logo="https://wtv.tools.yigechengzi.com/api/v1/tvg/logo/CCTV9",CCTV-9
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
+#EXTINF:-1 group-title="央视" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png",CCTV-10
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226473/index.m3u8
 #EXTINF:-1 group-title="央视" tvg-logo="https://wtv.tools.yigechengzi.com/api/v1/tvg/logo/CCTV11",CCTV-11
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226565/index.m3u8
 #EXTINF:-1 group-title="央视" tvg-logo="https://wtv.tools.yigechengzi.com/api/v1/tvg/logo/CCTV12",CCTV-12
@@ -27,6 +31,8 @@ http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
 #EXTINF:-1 group-title="央视" tvg-logo="https://wtv.tools.yigechengzi.com/api/v1/tvg/logo/CCTV15",CCTV-15
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226476/index.m3u8
+#EXTINF:-1 group-title="央视" tvg-id="CCTV-16奥林匹克" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png",CCTV-16
+http://123.189.36.155:9901/tsfile/live/1027_1.m3u8
 #EXTINF:-1 group-title="央视" tvg-logo="https://wtv.tools.yigechengzi.com/api/v1/tvg/logo/CCTV17",CCTV-17
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 
@@ -78,6 +84,9 @@ http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/index.m3u8
 #EXTINF:-1 group-title="卫视" tvg-logo="https://live.fanmingming.com/tv/吉林卫视.png",吉林卫视
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
+
+#EXTINF:-1 group-title="地方" tvg-id="睢宁综合频道" tvg-logo="http://tv.haoqu99.com/e/data/images/notemp.gif",睢宁综合频道
+http://suining-tv-hls.cm.jstv.com:80/suining-tv/suiningzh.m3u8
 #EXTINF:-1 group-title="地方" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/湖南爱晚.png",湖南爱晚
 http://222.241.154.37:9901/tsfile/live/23022_1.m3u8
 #EXTINF:-1 group-title="地方" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/湖南电视剧.png",湖南视剧
@@ -116,6 +125,21 @@ https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
 https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 #EXTINF:-1 group-title="地方" tvg-logo="https://live.fanmingming.com/tv/钱江都市.png",浙江钱江
 https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+#EXTINF:-1 group-title="地方",苏州4K超清
+http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
+#EXTINF:-1 group-title="地方" ,武汉生活
+http://stream.appwuhan.com/3tzb/sd/live.m3u8
+#EXTINF:-1 group-title="地方",武汉文体
+http://stream.appwuhan.com/5tzb/sd/live.m3u8
+#EXTINF:-1 group-title="地方",武汉新闻综合
+http://stream.appwuhan.com/1tzb/sd/live.m3u8
+#EXTINF:-1 group-title="地方",淅川综合
+http://tvpull.dxhmt.cn:9081/tv/11326-1.m3u8
+#EXTINF:-1 group-title="地方",湘潭新闻综合
+http://live.hnxttv.com:9601/live/xwzh/800K/tzwj_video.m3u8
+#EXTINF:-1 group-title="地方",萧山生活频道
+http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8
+
 #EXTINF:-1 group-title="数字" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级体育.png",超级体育
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
 #EXTINF:-1 group-title="数字" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电影.png",超级电影
@@ -148,291 +172,280 @@ http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8
 #EXTINF:-1 group-title="数字" tvg-logo="https://live.fanmingming.com/tv/NEWTV欢乐剧场.png",欢乐剧场
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
-#EXTINF:-1 ,环球电视台
+#EXTINF:-1 group-title="数字" tvg-id="金鹰卡通" tvg-logo="http://tv.haoqu99.com/d/file/2014/0603/20140603063711188.jpg",金鹰卡通
+http://123.189.36.155:9901/tsfile/live/1088_1.m3u8
+
+#EXTINF:-1 group-title="港澳台",环球电视台
 http://zb.xzxwhcb.com:9999/hls/world.m3u8
-#EXTINF:-1 ,苏州4K超清
-http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
-#EXTINF:-1 ,武汉生活
-http://stream.appwuhan.com/3tzb/sd/live.m3u8
-#EXTINF:-1 ,武汉文体
-http://stream.appwuhan.com/5tzb/sd/live.m3u8
-#EXTINF:-1 ,武汉新闻综合
-http://stream.appwuhan.com/1tzb/sd/live.m3u8
-#EXTINF:-1 ,淅川综合
-http://tvpull.dxhmt.cn:9081/tv/11326-1.m3u8
-#EXTINF:-1 ,湘潭新闻综合
-http://live.hnxttv.com:9601/live/xwzh/800K/tzwj_video.m3u8
-#EXTINF:-1 ,萧山生活频道
-http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8
-#EXTINF:-1 ,新加坡国际
 #EXTINF:-1 group-title="港澳台" tvg-logo="https://rb.gy/hqp9zu",澳门有线互动新闻
 http://202.175.127.77/live/show/ch2/index.m3u8
-#EXTINF:-1 ,创世电视
+#EXTINF:-1 group-title="港澳台",创世电视
 https://cdn.deepcore.online/hlsme/ctv_hk_1080.m3u8?zgangd
-#EXTINF:-1 ,创世电视
+#EXTINF:-1 group-title="港澳台",创世电视
 https://cdn.deepcore.online/hlsme/ctv_hk.m3u8?zgangd
 #EXTINF:-1 group-title="港澳台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DaliTV.png",大立电视台
 http://www.dalitv.com.tw:4568/live/dali/index.m3u8
-#EXTINF:-1 ,凤凰资讯
+#EXTINF:-1 group-title="港澳台",凤凰资讯
 http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
-#EXTINF:-1 ,凤凰资讯
+#EXTINF:-1 group-title="港澳台",凤凰资讯
 http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8?zgangd
 #EXTINF:-1 group-title="港澳台" tvg-logo="http://n.ysyz.top:99/buyaolian/msxw.png",民视新闻台
 http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 #EXTINF:-1 group-title="港澳台" tvg-logo="http://n.ysyz.top:99/buyaolian/tsxw.png",台视新闻台
 http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
-#EXTINF:-1 ,台湾番薯台[1920*1080]
+#EXTINF:-1 group-title="港澳台",台湾番薯台[1920*1080]
 http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
-#EXTINF:-1 ,耀才财经
+#EXTINF:-1 group-title="港澳台",耀才财经
 http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000?zgangd
 #EXTINF:-1 group-title="港澳台" tvg-logo="https://rb.gy/8cpcyd",耀才财经台
 http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
-#EXTINF:-1 ,中台灣生活網
+#EXTINF:-1 group-title="港澳台",中台灣生活網
 http://58.99.33.16:1935/liveedge17/live_020_3.stream/chunklist.m3u8
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-#EXTINF:-1 group-title="英语新闻" tvg-logo="https://www.hualigs.cn/image/61554ceba2b55.jpg",ArirangTV FHD
-http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1 group-title="英语新闻" tvg-logo="https://www.hualigs.cn/image/615553ec9a923.jpg",Bloomberg HT HD
-https://ciner.daioncdn.net/bloomberght/bloomberght_720p.m3u8
-#EXTINF:-1 group-title="英语新闻" tvg-logo="https://www.hualigs.cn/image/61554efc526e7.jpg",ChannelNewsAsia FHD
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-#EXTINF:-1 group-title="英语新闻" tvg-logo="https://www.hualigs.cn/image/61559500202ef.jpg",FOX NewsNOW
-http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="英语新闻" tvg-logo="https://www.hualigs.cn/image/6155567acfc1a.jpg",France24
-http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
-#EXTINF:-1 group-title="英语新闻" tvg-logo="https://www.hualigs.cn/image/6155567acfc1a.jpg",France24 FHD
-http://static.france24.com:80/live/F24_FR_HI_HLS/live_tv.m3u8
-#EXTINF:-1 group-title="英语儿童频道",Moonbug Kids
-https://moonbug-rokuus.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="英语新闻" tvg-logo="https://www.hualigs.cn/image/61554bc568623.jpg",Sky News Extra 1
-https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
-#EXTINF:-1 group-title="英语新闻" tvg-logo="https://www.hualigs.cn/image/61554bc568623.jpg",Sky News Extra 2
-https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8
-#EXTINF:-1 group-title="英语新闻" tvg-logo="https://www.hualigs.cn/image/61554bc568623.jpg",Sky News Extra 3
-https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
-#EXTINF:-1 group-title="英语新闻" tvg-logo="https://www.hualigs.cn/image/6156929a12198.jpg",Sky Sports 24 HD
-https://skyanywhere3-i.akamaihd.net/hls/live/510697/interactive/playlist.m3u8
-#EXTINF:-1 ,[美国]23 ABC (KERO) (720p)
-https://content.uplynk.com/channel/ff809e6d9ec34109abfb333f0d4444b5.m3u8
-#EXTINF:-1 ,[美国]30A Darcizzle Offshore (720p)
-https://30a-tv.com/darcizzle.m3u8
-#EXTINF:-1 ,[美国]30A Investment Pitch
-https://www.30a-tv.com/InvPit.m3u8
-#EXTINF:-1 ,[美国]30A Music (720p)
-https://30a-tv.com/music.m3u8
-#EXTINF:-1 ,[美国]30A Sidewalks (720p)
-https://30a-tv.com/sidewalks.m3u8
-#EXTINF:-1 ,[美国]30A The Beach Show (720p)
-https://30a-tv.com/beachy.m3u8
-#EXTINF:-1 ,[美国]30A TV (720p)
-https://30a-tv.com/feeds/xodglobal/30atv.m3u8
-#EXTINF:-1 ,[美国]3ABN
-https://moiptvhls-i.akamaihd.net/hls/live/652042/secure/master.m3u8
-#EXTINF:-1 ,[美国]3ABN Dare to Dream
-https://moiptvhls-i.akamaihd.net/hls/live/652313/secure/master.m3u8
-#EXTINF:-1 ,[美国]3ABN International
-https://moiptvhls-i.akamaihd.net/hls/live/652312/secure/master.m3u8
-#EXTINF:-1 ,[美国]3ABN Kids
-https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
-#EXTINF:-1 ,[美国]3ABN Praise Him Music Channel
-https://moiptvhls-i.akamaihd.net/hls/live/554145/secure/playlist.m3u8
-#EXTINF:-1 ,[美国]3ABN Proclaim!
-https://moiptvhls-i.akamaihd.net/hls/live/652317/secure/master.m3u8
-#EXTINF:-1 ,[美国]3News Now (KMTV-TV) (720p)
-https://content.uplynk.com/channel/328d1434fb51476cb6567c74d5b2cc70.m3u8
-#EXTINF:-1 ,[美国]ABC 15 (720p)
-https://content.uplynk.com/channel/9deaf22aaa33461f9cac22e030ed00ec.m3u8
-#EXTINF:-1 ,[美国]ABC 7 Denver (KMGH) (720p)
-https://content.uplynk.com/channel/64ca339f04964a5e961c3207a7771bf1.m3u8
-#EXTINF:-1 ,[美国]ABC News
-https://abcnewslive.akamaized.net/amagi_hls_data_roku-host-abc/CDN/playlist.m3u8
-#EXTINF:-1 ,[美国]ABC News (720p)
-https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-#EXTINF:-1 ,[美国]ABC News 1
-https://abcnews-streams.akamaized.net/hls/live/2023560/abcnews1/master.m3u8
-#EXTINF:-1 ,[美国]ABC News 2
-https://abcnews-streams.akamaized.net/hls/live/2023561/abcnews2/master.m3u8
-#EXTINF:-1 ,[美国]ABC News 4
-https://abcnews-streams.akamaized.net/hls/live/2023563/abcnews4/master.m3u8
-#EXTINF:-1 ,[美国]ABC News 5
-https://abcnews-streams.akamaized.net/hls/live/2023564/abcnews5/master.m3u8
-#EXTINF:-1 ,[美国]ABC News 6
-https://abcnews-streams.akamaized.net/hls/live/2023565/abcnews6/master.m3u8
-#EXTINF:-1 ,[美国]ABC News 7
-https://abcnews-streams.akamaized.net/hls/live/2023566/abcnews7/master.m3u8
-#EXTINF:-1 ,[美国]ABC News 8
-https://abcnews-streams.akamaized.net/hls/live/2023567/abcnews8/master.m3u8
-#EXTINF:-1 ,[美国]ABC News 9
-https://abcnews-streams.akamaized.net/hls/live/2023568/abcnews9/master.m3u8
-#EXTINF:-1 ,[美国]ABC News 10
-https://abcnews-streams.akamaized.net/hls/live/2023569/abcnews10/master.m3u8
-#EXTINF:-1 ,[美国]Albany | CBS 6 WRGB (720p)
-https://content.uplynk.com/channel/bba3e7da884a49bba96341ecf5128f0f.m3u8
-#EXTINF:-1 ,[美国]Aliento Vision
-http://209.133.209.195:1935/AlientoSD/smil:AlientoSD.smil/playlist.m3u8
-#EXTINF:-1 ,[美国]Alkarma TV Australia (1080p)
-https://5a8308add0b31.streamlock.net/alkarmatv.com/alkarmaau.smil/playlist.m3u8
-#EXTINF:-1 ,[美国]Alkarma TV North America &amp; Canada (1080p)
-https://5aafcc5de91f1.streamlock.net/alkarmatv.com/alkarmana1.smil/playlist.m3u8
-#EXTINF:-1 ,[美国]Alkarma TV Youth &amp; English (1080p)
-https://5aafcc5de91f1.streamlock.net/alkarmatv.com/alkarmaus.smil/playlist.m3u8
-#EXTINF:-1 ,[美国]Charge!
-http://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
-#EXTINF:-1 ,[美国]Christian Youth Channel (CYC)
-http://media.smc-host.com:1935/cycnow.com/cyc2/chunklist.m3u8
-#EXTINF:-1 ,[美国]Christian Youth Channel (CYC) (720p)
-http://media.smc-host.com:1935/cycnow.com/cyc2/playlist.m3u8
-#EXTINF:-1 ,[美国]Comet
-http://content.uplynk.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8
-#EXTINF:-1 ,[美国]CSat TV
-http://media.smc-host.com:1935/csat.tv/smil:csat.smil/playlist.m3u8
-#EXTINF:-1 ,[美国]Folk TV (480p)
-https://584b0aa350b92.streamlock.net/folk-tv/myStream.sdp/playlist.m3u8
-#EXTINF:-1 ,[美国]Football Daily (XUMO)
-https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-footballdaily/CDN/master.m3u8
-#EXTINF:-1 ,[美国]Fun Roads (720p)
-http://104.143.4.5:2080/funroads.m3u8
-#EXTINF:-1 ,[美国]Glendale 11 (360p)
-https://stream.swagit.com/live-edge/glendaleaz/smil:std-4x3-1-a/playlist.m3u8
-#EXTINF:-1 ,[美国]HTV 1 - Houston Television
-https://stream.swagit.com/live-edge/houstontx/smil:hd-16x9-2-a/playlist.m3u8
-#EXTINF:-1 ,[美国]KBSV/AssyriaSat
-http://66.242.170.53/hls/live/temp/index.m3u8
-#EXTINF:-1 ,[美国]KCWX
-http://65.36.6.216:1935/live/kcwx.smil/chunklist_w1137540697_b350000_sleng.m3u8
-#EXTINF:-1 ,[美国]KidsFlix
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
-#EXTINF:-1 ,[美国]KidsFlix
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50&amp;live=1&amp;app_bundle=com.plexapp.desktop
-#EXTINF:-1 ,[美国]KMTV Omaha
-https://content.uplynk.com/4a09fbea28ef4f32bce095e9eae04bd8.m3u8
-#EXTINF:-1 ,[美国]KOMO News (KOMO-TV) (720p)
-https://content.uplynk.com/2c88dfe19e1447e6a6aa27e8e143a140.m3u8
-#EXTINF:-1 ,[美国]Las Vegas - 13 Action News (720p)
-https://content.uplynk.com/channel/39919d3f7a074eefa8bf579214e952f9.m3u8
-#EXTINF:-1 ,[美国]Las Vegas - 13 Action News (720p)
-https://content.uplynk.com/channel/39919d3f7a074eefa8bf579214e952f9.m3u8?ad=live
-#EXTINF:-1 ,[美国]Mystery Science Theater 3000
-https://mst3k-localnow.amagi.tv/playlist.m3u8
-#EXTINF:-1 ,[美国]MyTime movie network (Brazil)
-https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
-#EXTINF:-1 ,[美国]MyTime movie network (Spain)
-https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 ,[美国]NASA TV Public
-https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
-#EXTINF:-1 ,[美国]NASA TV Public (720p)
-https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
-#EXTINF:-1 ,[美国]NBC 26 (WGBA) (720p)
-https://content.uplynk.com/channel/1fbfb28ae5044f619f75ae0adb011989.m3u8
-#EXTINF:-1 ,[美国]NBC News Now (1080p)
-https://nbcnewshls-i.akamaihd.net/hls/live/1005170/nnn_live1/index.m3u8
-#EXTINF:-1 ,[美国]Newsmax (1080p)
-http://nmxlive.akamaized.net/hls/live/529965/Live_1/master.m3u8
-#EXTINF:-1 ,[美国]Newsy
-https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/e3e6e29095844c4ba7d887f01e44a5ef/index.m3u8
-#EXTINF:-1 ,[美国]Newsy (720p)
-https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8
-#EXTINF:-1 ,[美国]Nothing Scripted (720p)
-https://30a-tv.com/NothingScripted.m3u8
-#EXTINF:-1 ,[美国]OML on Revry
-https://linear-73.frequency.stream/dist/localnow/73/hls/master/playlist.m3u8
-#EXTINF:-1 ,[美国]Outdoor HD
-http://ott.watch/stream/E7Q3UVKI5H/211.m3u8
-#EXTINF:-1 ,[美国]PAC 12 Insider (1080p)
-https://pac12-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 ,[美国]PIX11 (New York) (720p)
-https://content.uplynk.com/channel/98828f7707b84dc496472d5789143df2.m3u8
-#EXTINF:-1 ,[美国]Red Apple 21 (Fairfax County Public Schools)
-https://cs.ebmcdn.net/eastbay-live-hs-1/fcps/mp4:fcps/playlist.m3u8
-#EXTINF:-1 ,[美国]SKWAD (720p)
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=71
-#EXTINF:-1 ,[美国]TBD. (720p)
-https://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8
-#EXTINF:-1 ,[美国]TD Ameritrade Network
-https://content.uplynk.com/channel/f9aafa1f132e40af9b9e7238bc18d128.m3u8
-#EXTINF:-1 ,[美国]The 360 Channel
-https://www.filmon.com/vr-streams/4136.high/playlist.m3u8
-#EXTINF:-1 ,[美国]The Retro Channel HD
-https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
-#EXTINF:-1 ,[美国]Toon Goggles (720p)
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=37
-#EXTINF:-1 ,[美国]Top Stories by Newsy
-https://content.uplynk.com/channel/33c48f602cfd4474b957eb4ad999caf8.m3u8
-#EXTINF:-1 ,[美国]UCTV - University of California (720p)
-https://59e8e1c60a2b2.streamlock.net/509/509.stream/playlist.m3u8
-#EXTINF:-1 ,[美国]White Plains Community Media
-http://stream.swagit.com/live-edge/whiteplainsny/smil:std-4x3-1-b/chunklist_w1456643228_b512000.m3u8
-#EXTINF:-1 ,[美国]White Plains Community Media (360p)
-https://stream.swagit.com/live-edge/whiteplainsny/smil:std-4x3-1-b/playlist.m3u8
-#EXTINF:-1 ,[美国]WHOH TV - Hastings-On-Hudson - NY (360p)
-http://stream.swagit.com/live-edge/hastingsonhudsonny/smil:std-4x3-1-a/playlist.m3u8
-#EXTINF:-1 ,[美国]WJLA
-https://content.uplynk.com/40cec2bf074c40f08932da03ab4510be.m3u8
-#EXTINF:-1 ,[美国]WPEC CBS12 News (720p)
-https://content.uplynk.com/channel/0123b306191a4307a31b9fb573213fd3.m3u8
-#EXTINF:-1 ,[美国]WTGS FOX 28 Savannah GA (720p)
-https://content.uplynk.com/channel/e56ba52a1b9d45ad8c8a033fd83fe480.m3u8
-#EXTINF:-1 group-title="国际",CNA
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 group-title="国际",Live Now FOX
-https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="国际",AXS TV Now
-https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
-#EXTINF:-1 group-title="国际",Newsmax
-http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
-#EXTINF:-1 group-title="国际",Al Jazeera
-http://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:-1 group-title="国际",NHK World
-https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
-#EXTINF:-1 group-title="国际",Arirang
-https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
-#EXTINF:-1 group-title="国际",KBS World
-https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
-#EXTINF:-1 group-title="国际",Bloomberg Asia
-https://epg.pw/stream/d2edf469b9079064a283f4b0811cbf6f2597ebbb3d08dcf77036a4b5a791b7cf.m3u8
-#EXTINF:-1 group-title="国际",CBN News
-https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
-#EXTINF:-1 group-title="国际",RT News
-https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
-#EXTINF:-1 group-title="国际",TBS
-http://143.244.60.30/TBS/index.m3u8
-#EXTINF:-1 group-title="国际",Red Bull TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:-1 group-title="国际",RT Documentary
-https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
-#EXTINF:-1 group-title="国际",Taiwan Plus
+#EXTINF:-1 group-title="港澳台",Taiwan Plus
 https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
-#EXTINF:-1 group-title="国际",Love Nature
+
+#EXTINF:-1 group-title="环球" tvg-logo="https://www.hualigs.cn/image/61554ceba2b55.jpg",ArirangTV FHD
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 group-title="环球" tvg-logo="https://www.hualigs.cn/image/615553ec9a923.jpg",Bloomberg HT HD
+https://ciner.daioncdn.net/bloomberght/bloomberght_720p.m3u8
+#EXTINF:-1 group-title="环球" tvg-logo="https://www.hualigs.cn/image/61554efc526e7.jpg",ChannelNewsAsia FHD
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+#EXTINF:-1 group-title="环球" tvg-logo="https://www.hualigs.cn/image/61559500202ef.jpg",FOX NewsNOW
+http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="环球" tvg-logo="https://www.hualigs.cn/image/6155567acfc1a.jpg",France24
+http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+#EXTINF:-1 group-title="环球" tvg-logo="https://www.hualigs.cn/image/6155567acfc1a.jpg",France24 FHD
+http://static.france24.com:80/live/F24_FR_HI_HLS/live_tv.m3u8
+#EXTINF:-1 group-title="环球",Moonbug Kids
+https://moonbug-rokuus.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="环球" tvg-logo="https://www.hualigs.cn/image/61554bc568623.jpg",Sky News Extra 1
+https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
+#EXTINF:-1 group-title="环球" tvg-logo="https://www.hualigs.cn/image/61554bc568623.jpg",Sky News Extra 2
+https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8
+#EXTINF:-1 group-title="环球" tvg-logo="https://www.hualigs.cn/image/61554bc568623.jpg",Sky News Extra 3
+https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
+#EXTINF:-1 group-title="环球" tvg-logo="https://www.hualigs.cn/image/6156929a12198.jpg",Sky Sports 24 HD
+https://skyanywhere3-i.akamaihd.net/hls/live/510697/interactive/playlist.m3u8
+#EXTINF:-1 group-title="环球",[美国]23 ABC (KERO) (720p)
+https://content.uplynk.com/channel/ff809e6d9ec34109abfb333f0d4444b5.m3u8
+#EXTINF:-1 group-title="环球",[美国]30A Darcizzle Offshore (720p)
+https://30a-tv.com/darcizzle.m3u8
+#EXTINF:-1 group-title="环球",[美国]30A Investment Pitch
+https://www.30a-tv.com/InvPit.m3u8
+#EXTINF:-1 group-title="环球",[美国]30A Music (720p)
+https://30a-tv.com/music.m3u8
+#EXTINF:-1 group-title="环球",[美国]30A Sidewalks (720p)
+https://30a-tv.com/sidewalks.m3u8
+#EXTINF:-1 group-title="环球",[美国]30A The Beach Show (720p)
+https://30a-tv.com/beachy.m3u8
+#EXTINF:-1 group-title="环球",[美国]30A TV (720p)
+https://30a-tv.com/feeds/xodglobal/30atv.m3u8
+#EXTINF:-1 group-title="环球",[美国]3ABN
+https://moiptvhls-i.akamaihd.net/hls/live/652042/secure/master.m3u8
+#EXTINF:-1 group-title="环球",[美国]3ABN Dare to Dream
+https://moiptvhls-i.akamaihd.net/hls/live/652313/secure/master.m3u8
+#EXTINF:-1 group-title="环球",[美国]3ABN International
+https://moiptvhls-i.akamaihd.net/hls/live/652312/secure/master.m3u8
+#EXTINF:-1 group-title="环球",[美国]3ABN Kids
+https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
+#EXTINF:-1 group-title="环球",[美国]3ABN Praise Him Music Channel
+https://moiptvhls-i.akamaihd.net/hls/live/554145/secure/playlist.m3u8
+#EXTINF:-1 group-title="环球",[美国]3ABN Proclaim!
+https://moiptvhls-i.akamaihd.net/hls/live/652317/secure/master.m3u8
+#EXTINF:-1 group-title="环球",[美国]3News Now (KMTV-TV) (720p)
+https://content.uplynk.com/channel/328d1434fb51476cb6567c74d5b2cc70.m3u8
+#EXTINF:-1 group-title="环球",[美国]ABC 15 (720p)
+https://content.uplynk.com/channel/9deaf22aaa33461f9cac22e030ed00ec.m3u8
+#EXTINF:-1 group-title="环球",[美国]ABC 7 Denver (KMGH) (720p)
+https://content.uplynk.com/channel/64ca339f04964a5e961c3207a7771bf1.m3u8
+#EXTINF:-1 group-title="环球",[美国]ABC News
+https://abcnewslive.akamaized.net/amagi_hls_data_roku-host-abc/CDN/playlist.m3u8
+#EXTINF:-1 group-title="环球",[美国]ABC News (720p)
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+#EXTINF:-1 group-title="环球",[美国]ABC News 1
+https://abcnews-streams.akamaized.net/hls/live/2023560/abcnews1/master.m3u8
+#EXTINF:-1 group-title="环球",[美国]ABC News 2
+https://abcnews-streams.akamaized.net/hls/live/2023561/abcnews2/master.m3u8
+#EXTINF:-1 group-title="环球",[美国]ABC News 4
+https://abcnews-streams.akamaized.net/hls/live/2023563/abcnews4/master.m3u8
+#EXTINF:-1 group-title="环球",[美国]ABC News 5
+https://abcnews-streams.akamaized.net/hls/live/2023564/abcnews5/master.m3u8
+#EXTINF:-1 group-title="环球",[美国]ABC News 6
+https://abcnews-streams.akamaized.net/hls/live/2023565/abcnews6/master.m3u8
+#EXTINF:-1 group-title="环球",[美国]ABC News 7
+https://abcnews-streams.akamaized.net/hls/live/2023566/abcnews7/master.m3u8
+#EXTINF:-1 group-title="环球",[美国]ABC News 8
+https://abcnews-streams.akamaized.net/hls/live/2023567/abcnews8/master.m3u8
+#EXTINF:-1 group-title="环球",[美国]ABC News 9
+https://abcnews-streams.akamaized.net/hls/live/2023568/abcnews9/master.m3u8
+#EXTINF:-1 group-title="环球",[美国]ABC News 10
+https://abcnews-streams.akamaized.net/hls/live/2023569/abcnews10/master.m3u8
+#EXTINF:-1 group-title="环球",[美国]Albany | CBS 6 WRGB (720p)
+https://content.uplynk.com/channel/bba3e7da884a49bba96341ecf5128f0f.m3u8
+#EXTINF:-1 group-title="环球",[美国]Aliento Vision
+http://209.133.209.195:1935/AlientoSD/smil:AlientoSD.smil/playlist.m3u8
+#EXTINF:-1 group-title="环球",[美国]Alkarma TV Australia (1080p)
+https://5a8308add0b31.streamlock.net/alkarmatv.com/alkarmaau.smil/playlist.m3u8
+#EXTINF:-1 group-title="环球",[美国]Alkarma TV North America &amp; Canada (1080p)
+https://5aafcc5de91f1.streamlock.net/alkarmatv.com/alkarmana1.smil/playlist.m3u8
+#EXTINF:-1 group-title="环球",[美国]Alkarma TV Youth &amp; English (1080p)
+https://5aafcc5de91f1.streamlock.net/alkarmatv.com/alkarmaus.smil/playlist.m3u8
+#EXTINF:-1 group-title="环球",[美国]Charge!
+http://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
+#EXTINF:-1 group-title="环球",[美国]Christian Youth Channel (CYC)
+http://media.smc-host.com:1935/cycnow.com/cyc2/chunklist.m3u8
+#EXTINF:-1 group-title="环球",[美国]Christian Youth Channel (CYC) (720p)
+http://media.smc-host.com:1935/cycnow.com/cyc2/playlist.m3u8
+#EXTINF:-1 group-title="环球",[美国]Comet
+http://content.uplynk.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8
+#EXTINF:-1 group-title="环球",[美国]CSat TV
+http://media.smc-host.com:1935/csat.tv/smil:csat.smil/playlist.m3u8
+#EXTINF:-1 group-title="环球",[美国]Folk TV (480p)
+https://584b0aa350b92.streamlock.net/folk-tv/myStream.sdp/playlist.m3u8
+#EXTINF:-1 group-title="环球",[美国]Football Daily (XUMO)
+https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-footballdaily/CDN/master.m3u8
+#EXTINF:-1 group-title="环球",[美国]Fun Roads (720p)
+http://104.143.4.5:2080/funroads.m3u8
+#EXTINF:-1 group-title="环球",[美国]Glendale 11 (360p)
+https://stream.swagit.com/live-edge/glendaleaz/smil:std-4x3-1-a/playlist.m3u8
+#EXTINF:-1 group-title="环球",[美国]HTV 1 - Houston Television
+https://stream.swagit.com/live-edge/houstontx/smil:hd-16x9-2-a/playlist.m3u8
+#EXTINF:-1 group-title="环球",[美国]KBSV/AssyriaSat
+http://66.242.170.53/hls/live/temp/index.m3u8
+#EXTINF:-1 group-title="环球",[美国]KCWX
+http://65.36.6.216:1935/live/kcwx.smil/chunklist_w1137540697_b350000_sleng.m3u8
+#EXTINF:-1 group-title="环球",[美国]KidsFlix
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
+#EXTINF:-1 group-title="环球",[美国]KidsFlix
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50&amp;live=1&amp;app_bundle=com.plexapp.desktop
+#EXTINF:-1 group-title="环球",[美国]KMTV Omaha
+https://content.uplynk.com/4a09fbea28ef4f32bce095e9eae04bd8.m3u8
+#EXTINF:-1 group-title="环球",[美国]KOMO News (KOMO-TV) (720p)
+https://content.uplynk.com/2c88dfe19e1447e6a6aa27e8e143a140.m3u8
+#EXTINF:-1 group-title="环球",[美国]Las Vegas - 13 Action News (720p)
+https://content.uplynk.com/channel/39919d3f7a074eefa8bf579214e952f9.m3u8
+#EXTINF:-1 group-title="环球",[美国]Las Vegas - 13 Action News (720p)
+https://content.uplynk.com/channel/39919d3f7a074eefa8bf579214e952f9.m3u8?ad=live
+#EXTINF:-1 group-title="环球",[美国]Mystery Science Theater 3000
+https://mst3k-localnow.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="环球",[美国]MyTime movie network (Brazil)
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="环球",[美国]MyTime movie network (Spain)
+https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="环球",[美国]NASA TV Public
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+#EXTINF:-1 group-title="环球",[美国]NASA TV Public (720p)
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+#EXTINF:-1 group-title="环球",[美国]NBC 26 (WGBA) (720p)
+https://content.uplynk.com/channel/1fbfb28ae5044f619f75ae0adb011989.m3u8
+#EXTINF:-1 group-title="环球",[美国]NBC News Now (1080p)
+https://nbcnewshls-i.akamaihd.net/hls/live/1005170/nnn_live1/index.m3u8
+#EXTINF:-1 group-title="环球",[美国]Newsmax (1080p)
+http://nmxlive.akamaized.net/hls/live/529965/Live_1/master.m3u8
+#EXTINF:-1 group-title="环球",[美国]Newsy
+https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/e3e6e29095844c4ba7d887f01e44a5ef/index.m3u8
+#EXTINF:-1 group-title="环球",[美国]Newsy (720p)
+https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8
+#EXTINF:-1 group-title="环球",[美国]Nothing Scripted (720p)
+https://30a-tv.com/NothingScripted.m3u8
+#EXTINF:-1 group-title="环球",[美国]OML on Revry
+https://linear-73.frequency.stream/dist/localnow/73/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="环球",[美国]Outdoor HD
+http://ott.watch/stream/E7Q3UVKI5H/211.m3u8
+#EXTINF:-1 group-title="环球",[美国]PAC 12 Insider (1080p)
+https://pac12-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="环球",[美国]PIX11 (New York) (720p)
+https://content.uplynk.com/channel/98828f7707b84dc496472d5789143df2.m3u8
+#EXTINF:-1 group-title="环球",[美国]Red Apple 21 (Fairfax County Public Schools)
+https://cs.ebmcdn.net/eastbay-live-hs-1/fcps/mp4:fcps/playlist.m3u8
+#EXTINF:-1 group-title="环球",[美国]SKWAD (720p)
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=71
+#EXTINF:-1 group-title="环球",[美国]TBD. (720p)
+https://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8
+#EXTINF:-1 group-title="环球",[美国]TD Ameritrade Network
+https://content.uplynk.com/channel/f9aafa1f132e40af9b9e7238bc18d128.m3u8
+#EXTINF:-1 group-title="环球",[美国]The 360 Channel
+https://www.filmon.com/vr-streams/4136.high/playlist.m3u8
+#EXTINF:-1 group-title="环球",[美国]The Retro Channel HD
+https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
+#EXTINF:-1 group-title="环球",[美国]Toon Goggles (720p)
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=37
+#EXTINF:-1 group-title="环球",[美国]Top Stories by Newsy
+https://content.uplynk.com/channel/33c48f602cfd4474b957eb4ad999caf8.m3u8
+#EXTINF:-1 group-title="环球",[美国]UCTV - University of California (720p)
+https://59e8e1c60a2b2.streamlock.net/509/509.stream/playlist.m3u8
+#EXTINF:-1 group-title="环球",[美国]White Plains Community Media
+http://stream.swagit.com/live-edge/whiteplainsny/smil:std-4x3-1-b/chunklist_w1456643228_b512000.m3u8
+#EXTINF:-1 group-title="环球",[美国]White Plains Community Media (360p)
+https://stream.swagit.com/live-edge/whiteplainsny/smil:std-4x3-1-b/playlist.m3u8
+#EXTINF:-1 group-title="环球",[美国]WHOH TV - Hastings-On-Hudson - NY (360p)
+http://stream.swagit.com/live-edge/hastingsonhudsonny/smil:std-4x3-1-a/playlist.m3u8
+#EXTINF:-1 group-title="环球",[美国]WJLA
+https://content.uplynk.com/40cec2bf074c40f08932da03ab4510be.m3u8
+#EXTINF:-1 group-title="环球",[美国]WPEC CBS12 News (720p)
+https://content.uplynk.com/channel/0123b306191a4307a31b9fb573213fd3.m3u8
+#EXTINF:-1 group-title="环球",[美国]WTGS FOX 28 Savannah GA (720p)
+https://content.uplynk.com/channel/e56ba52a1b9d45ad8c8a033fd83fe480.m3u8
+#EXTINF:-1 group-title="环球",CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 group-title="环球",Live Now FOX
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="环球",AXS TV Now
+https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
+#EXTINF:-1 group-title="环球",Newsmax
+http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+#EXTINF:-1 group-title="环球",Al Jazeera
+http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1 group-title="环球",NHK World
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+#EXTINF:-1 group-title="环球",Arirang
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
+#EXTINF:-1 group-title="环球",KBS World
+https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
+#EXTINF:-1 group-title="环球",Bloomberg Asia
+https://epg.pw/stream/d2edf469b9079064a283f4b0811cbf6f2597ebbb3d08dcf77036a4b5a791b7cf.m3u8
+#EXTINF:-1 group-title="环球",CBN News
+https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
+#EXTINF:-1 group-title="环球",RT News
+https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
+#EXTINF:-1 group-title="环球",TBS
+http://143.244.60.30/TBS/index.m3u8
+#EXTINF:-1 group-title="环球",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1 group-title="环球",RT Documentary
+https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
+#EXTINF:-1 group-title="环球",Love Nature
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-#EXTINF:-1 group-title="国际",Fashion TV
+#EXTINF:-1 group-title="环球",Fashion TV
 http://91.247.68.229:8000/play/Fashion/index.m3u8
-#EXTINF:-1 group-title="国际",Fight Network
+#EXTINF:-1 group-title="环球",Fight Network
 https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
-#EXTINF:-1 group-title="国际",Wild Earth
+#EXTINF:-1 group-title="环球",Wild Earth
 https://wildearth-plex.amagi.tv/masterR1080p.m3u8
-#EXTINF:-1 group-title="国际",Nickelodeon
+#EXTINF:-1 group-title="环球",Nickelodeon
 http://143.244.60.30/NICKELODEON/index.m3u8
-#EXTINF:-1 group-title="国际",Rakuten Comedy
+#EXTINF:-1 group-title="环球",Rakuten Comedy
 https://rakuten-comedymovies-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="国际",Rakuten Family
+#EXTINF:-1 group-title="环球",Rakuten Family
 https://rakuten-family-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="国际",Rakuten Action
+#EXTINF:-1 group-title="环球",Rakuten Action
 https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="国际",Trace Sports
+#EXTINF:-1 group-title="环球",Trace Sports
 https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 group-title="国际",NBA TV
+#EXTINF:-1 group-title="环球",NBA TV
 http://streamsy.online:2999/coachj88/N93DPKS9pJ/136
-#EXTINF:-1 group-title="国际",Nat Geo
+#EXTINF:-1 group-title="环球",Nat Geo
 http://streamsy.online:2999/coachj88/N93DPKS9pJ/141
-#EXTINF:-1 group-title="国际",NASA
+#EXTINF:-1 group-title="环球",NASA
 https://ntv1.akamaized.net:443/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8?
-#EXTINF:-1 group-title="国际",Start TV
+#EXTINF:-1 group-title="环球",Start TV
 http://streamsy.online:2999/coachj88/N93DPKS9pJ/1467
-#EXTINF:-1 group-title="国际",The Weather Channel
+#EXTINF:-1 group-title="环球",The Weather Channel
 http://streamsy.online:2999/coachj88/N93DPKS9pJ/301
-#EXTINF:-1 group-title="国际",Pop
+#EXTINF:-1 group-title="环球",Pop
 http://streamsy.online:2999/coachj88/N93DPKS9pJ/226
-#EXTINF:-1 group-title="国际",WE TV
+#EXTINF:-1 group-title="环球",WE TV
 http://streamsy.online:2999/coachj88/N93DPKS9pJ/247
-#EXTINF:-1 group-title="国际",Me TV
+#EXTINF:-1 group-title="环球",Me TV
 http://streamsy.online:2999/coachj88/N93DPKS9pJ/744
