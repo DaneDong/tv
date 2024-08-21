@@ -36,6 +36,19 @@ http://123.189.36.155:9901/tsfile/live/1027_1.m3u8
 #EXTINF:-1 group-title="央视" tvg-logo="https://wtv.tools.yigechengzi.com/api/v1/tvg/logo/CCTV17",CCTV-17
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 
+#EXTINF:-1 group-title="暖宝专区" tvg-logo="https://wtv.tools.yigechengzi.com/api/v1/tvg/logo/CCTV14",CCTV-14
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
+#EXTINF:-1 group-title="暖宝专区" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/湖南教育台.png",湖南教育
+http://222.241.154.37:9901/tsfile/live/23027_1.m3u8
+#EXTINF:-1 group-title="暖宝专区" tvg-logo="https://live.fanmingming.com/tv/黑莓动画.png",黑莓动画
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
+#EXTINF:-1 group-title="暖宝专区" tvg-logo="https://live.fanmingming.com/tv/浙江少儿.png",浙江少儿
+https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+#EXTINF:-1 group-title="暖宝专区" tvg-id="金鹰卡通" tvg-logo="http://tv.haoqu99.com/d/file/2014/0603/20140603063711188.jpg",金鹰卡通
+http://123.189.36.155:9901/tsfile/live/1088_1.m3u8
+#EXTINF:-1 group-title="暖宝专区",[美国]3ABN Kids
+https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
+
 #EXTINF:-1 group-title="卫视" tvg-logo="https://github.moeyy.xyz/https://raw.githubusercontent.com/fenxp/iptv/main/tv/北京卫视.png",北京卫视
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8
 #EXTINF:-1 group-title="卫视" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视.png",凤凰卫视
