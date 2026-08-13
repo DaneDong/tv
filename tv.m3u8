@@ -1,35 +1,12 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
 
-#EXTINF:-1 group-title="暖宝专区" tvg-logo="https://live.fanmingming.com/tv/浙江少儿.png",浙江少儿
-https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-
-#EXTINF:-1 group-title="地方" tvg-id="睢宁综合频道" tvg-logo="http://tv.haoqu99.com/e/data/images/notemp.gif",睢宁综合频道
-http://suining-tv-hls.cm.jstv.com:80/suining-tv/suiningzh.m3u8
 #EXTINF:-1 group-title="地方" tvg-logo="https://live.fanmingming.com/tv/台视新闻.png",台视新闻
-http://222.128.55.152:9080/live/ts.m3u8
-#EXTINF:-1 group-title="地方" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png",凤凰资讯
-https://t.freetv.fun/live/feng-huang-zi-xun-1.php
-#EXTINF:-1 group-title="地方" tvg-logo="https://live.fanmingming.com/tv/浙江新闻.png",浙江新闻
-https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
-#EXTINF:-1 group-title="地方" tvg-logo="https://live.fanmingming.com/tv/浙江国际.png",浙江国际
-https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
-#EXTINF:-1 group-title="地方" tvg-logo="https://live.fanmingming.com/tv/浙江教科影视.png",浙江教科
-https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
-#EXTINF:-1 group-title="地方" tvg-logo="https://live.fanmingming.com/tv/之江记录.png",之江纪录
-https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
-#EXTINF:-1 group-title="地方" tvg-logo="https://live.fanmingming.com/tv/浙江民生休闲.png",浙江民生
-https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
-#EXTINF:-1 group-title="地方" tvg-logo="https://live.fanmingming.com/tv/浙江经济生活.png",浙江经济
-https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
-#EXTINF:-1 group-title="地方" tvg-logo="https://live.fanmingming.com/tv/钱江都市.png",浙江钱江
-https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
-#EXTINF:-1 group-title="地方",淅川综合
-http://tvpull.dxhmt.cn:9081/tv/11326-1.m3u8
-#EXTINF:-1 group-title="地方",湘潭新闻综合
-http://live.hnxttv.com:9601/live/xwzh/800K/tzwj_video.m3u8
-#EXTINF:-1 group-title="地方",萧山生活频道
-http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8
+http://seb.sason.top/sc/tsxw_fhd.m3u8
+#EXTINF:-1 group-title="地方" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视.png",凤凰卫视
+https://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
 
+#EXTINF:-1 group-title="新闻",tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Al_Jazeera_English_logo.svg/240px-Al_Jazeera_English_logo.svg.png",Al Jazeera English
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 group-title="新闻",RT News
 https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 #EXTINF:-1 group-title="新闻",CNA
