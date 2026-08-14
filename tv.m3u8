@@ -1,66 +1,23 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
 
-#EXTINF:-1 group-title="地方" tvg-logo="https://live.fanmingming.com/tv/台视新闻.png",台视新闻
-http://seb.sason.top/sc/tsxw_fhd.m3u8
-#EXTINF:-1 group-title="地方" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视.png",凤凰卫视
-https://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
+# #EXTINF:-1 group-title="地方",凤凰资讯
+# http://php.17186.eu.org/phtv/fhzx.m3u8
+# #EXTINF:-1 group-title="地方",台视新闻
+# http://seb.sason.top/sc/tsxw_fhd.m3u8
+#EXTINF:-1 group-title="地方",中天綜合台
+http://23.237.10.66:16372
 
-#EXTINF:-1 group-title="新闻",tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Al_Jazeera_English_logo.svg/240px-Al_Jazeera_English_logo.svg.png",Al Jazeera English
-https://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:-1 group-title="新闻",RT News
-https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 #EXTINF:-1 group-title="新闻",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 group-title="新闻",Al Jazeera (1080p)
+https://live-hls-apps-aja-fa.getaj.net/AJA/index.m3u8
+#EXTINF:-1 tvg-id="BBCNews.uk@UK",BBC News (1080p)
+https://xemzi.short.gy/1000015
 #EXTINF:-1 group-title="新闻",Live Now FOX
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="新闻",[美国]Newsy
-https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/e3e6e29095844c4ba7d887f01e44a5ef/index.m3u8
-#EXTINF:-1 group-title="新闻",Newsmax
-http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
-#EXTINF:-1 group-title="新闻" tvg-logo="https://www.hualigs.cn/image/61554ceba2b55.jpg",ArirangTV FHD
-http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1 group-title="新闻" tvg-logo="https://www.hualigs.cn/image/61554efc526e7.jpg",ChannelNewsAsia FHD
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 
-#EXTINF:-1 group-title="环球",HBO
-http://23.237.104.106:8080/USA_HBO/index.m3u8
+# #EXTINF:-1 group-title="环球",HBO
+# http://23.237.104.106:8080/USA_HBO/index.m3u8
 #EXTINF:-1 group-title="环球",Bloomberg TV
 https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-03-0Yn1cQZHOtP_live.m3u8
 #EXTINF:-1 group-title="环球",Bloomberg Asia
-https://epg.pw/stream/d2edf469b9079064a283f4b0811cbf6f2597ebbb3d08dcf77036a4b5a791b7cf.m3u8
-#EXTINF:-1 group-title="环球",Red Bull TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:-1 group-title="环球",RT Documentary
-https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
-#EXTINF:-1 group-title="环球",Wild Earth
-https://wildearth-plex.amagi.tv/masterR1080p.m3u8
-#EXTINF:-1 group-title="环球" tvg-logo="https://www.hualigs.cn/image/61554bc568623.jpg",Sky News Extra 1
-https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
-#EXTINF:-1 group-title="环球",[美国]30A Darcizzle Offshore (720p)
-https://30a-tv.com/darcizzle.m3u8
-#EXTINF:-1 group-title="环球",[美国]30A Investment Pitch
-https://www.30a-tv.com/InvPit.m3u8
-#EXTINF:-1 group-title="环球",[美国]30A Music (720p)
-https://30a-tv.com/music.m3u8
-#EXTINF:-1 group-title="环球",[美国]30A Sidewalks (720p)
-https://30a-tv.com/sidewalks.m3u8
-#EXTINF:-1 group-title="环球",[美国]30A The Beach Show (720p)
-https://30a-tv.com/beachy.m3u8
-#EXTINF:-1 group-title="环球",[美国]30A TV (720p)
-https://30a-tv.com/feeds/xodglobal/30atv.m3u8
-#EXTINF:-1 group-title="环球",[美国]Christian Youth Channel (CYC) (720p)
-http://media.smc-host.com:1935/cycnow.com/cyc2/playlist.m3u8
-#EXTINF:-1 group-title="环球",[美国]KCWX
-http://65.36.6.216:1935/live/kcwx.smil/chunklist_w1137540697_b350000_sleng.m3u8
-#EXTINF:-1 group-title="环球",[美国]Mystery Science Theater 3000
-https://mst3k-localnow.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="环球",[美国]Nothing Scripted (720p)
-https://30a-tv.com/NothingScripted.m3u8
-#EXTINF:-1 group-title="环球",[美国]OML on Revry
-https://linear-73.frequency.stream/dist/localnow/73/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="环球",[美国]Outdoor HD
-http://ott.watch/stream/E7Q3UVKI5H/211.m3u8
-#EXTINF:-1 group-title="环球",[美国]PAC 12 Insider (1080p)
-https://pac12-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="环球",[美国]UCTV - University of California (720p)
-https://59e8e1c60a2b2.streamlock.net/509/509.stream/playlist.m3u8
