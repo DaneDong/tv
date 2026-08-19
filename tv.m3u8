@@ -4,12 +4,11 @@
 # http://php.17186.eu.org/phtv/fhzx.m3u8
 # #EXTINF:-1 group-title="地方",台视新闻
 # http://seb.sason.top/sc/tsxw_fhd.m3u8
+# #EXTINF:-1 group-title="新闻",东森新闻
+# https://ed6e-f4b7-af48-6d55.kylintv.tv/live/tvbshd_iphone.m3u8
 
-#EXTINF:-1 group-title="新闻",CCTV-4 中文国际
+#EXTINF:-1 group-title="新闻",CCTV-4中文国际
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001221/index.m3u8
-
-#EXTINF:-1 group-title="新闻",东森新闻
-https://ed6e-f4b7-af48-6d55.kylintv.tv/live/tvbshd_iphone.m3u8
 
 #EXTINF:-1 group-title="新闻",TVBS新闻
 http://4gtv.cnlive.club/channel/n1ea96b20/index.m3u8?q=1782639885837
